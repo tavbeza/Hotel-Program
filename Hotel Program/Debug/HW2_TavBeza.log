@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HW2_TavBeza.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HotelManager.c
+c:\users\tavbe\onedrive\documents\visual studio 2015\projects\hw2_tavbeza\hotelmanager.c(111): warning C4477: 'scanf_s' : format string '%1d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\tavbe\onedrive\documents\visual studio 2015\projects\hw2_tavbeza\hotelmanager.c(111): note: consider using '%hhd' in the format string
+c:\users\tavbe\onedrive\documents\visual studio 2015\projects\hw2_tavbeza\hotelmanager.c(211): warning C4047: '==': 'room_t **' differs in levels of indirection from 'room_t *'
+  main.c
+c:\users\tavbe\onedrive\documents\visual studio 2015\projects\hw2_tavbeza\main.c(57): warning C4477: 'scanf_s' : format string '%1d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\tavbe\onedrive\documents\visual studio 2015\projects\hw2_tavbeza\main.c(57): note: consider using '%hhd' in the format string
+  Generating Code...
+  HW2_TavBeza.vcxproj -> C:\Users\tavbe\OneDrive\Documents\Visual Studio 2015\Projects\HW2_TavBeza\Debug\HotelKalifornia.exe
